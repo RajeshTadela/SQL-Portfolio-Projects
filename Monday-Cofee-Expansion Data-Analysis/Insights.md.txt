@@ -1,0 +1,55 @@
+Monday Coffee Expansion Analysis - Key Insights
+Project Objective
+
+Analyze customer behavior, sales performance, and city-level market potential to identify the most promising cities for Monday Coffee's future expansion.
+
+Key Findings
+1. Coffee Consumer Market Size
+Delhi has the largest estimated coffee consumer base, with approximately 7.7 million potential consumers.
+Other major markets also show strong coffee demand due to their large populations.
+2. Revenue Performance
+Pune generated the highest overall revenue among all cities.
+Cities with strong revenue performance indicate existing demand and customer engagement.
+3. Customer Base Analysis
+Jaipur and Delhi recorded the highest customer counts.
+A larger customer base suggests stronger market penetration and long-term growth opportunities.
+4. Product Performance
+Product sales analysis identified the most frequently ordered coffee products in each city.
+Understanding local product preferences can support inventory and marketing decisions.
+5. Customer Spending Behavior
+Average sales per customer varied significantly across cities.
+Some cities generated fewer customers but higher spending per customer, indicating premium purchasing behavior.
+6. Rent vs Sales Analysis
+Cities with lower rent-per-customer ratios offer better profitability potential.
+Pune and Jaipur demonstrated particularly favorable cost-to-revenue characteristics.
+7. Monthly Growth Trends
+Monthly sales growth analysis revealed fluctuations in demand across different cities.
+Tracking growth trends helps identify emerging markets and seasonal patterns.
+Expansion Recommendations
+City 1: Pune
+
+Reasons:
+
+Highest total revenue.
+Strong average sales per customer.
+Low rent cost per customer.
+Excellent balance between demand and operational cost.
+City 2: Delhi
+
+Reasons:
+
+Largest estimated coffee consumer market.
+High customer count.
+Strong revenue generation.
+Significant untapped growth potential.
+City 3: Jaipur
+
+Reasons:
+
+Highest customer engagement.
+Very low rent-per-customer ratio.
+Healthy average customer spending.
+Cost-effective location for expansion.
+Conclusion
+
+Based on sales performance, customer activity, market size, and operational costs, Pune, Delhi, and Jaipur emerge as the strongest candidates for Monday Coffee's future expansion strategy.
